@@ -1,6 +1,6 @@
 {
   "name": "@crudlio/crudl-connectors-base",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A connector layer to access any API uniformly using CRUD methods",
   "main": "./lib/index.js",
   "scripts": {
